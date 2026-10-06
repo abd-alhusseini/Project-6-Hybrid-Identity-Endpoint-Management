@@ -1,4 +1,4 @@
-<div align="center">https://github.com/abd-alhusseini/Project-6-Hybrid-Identity-Endpoint-Management/blob/main/README.md
+<div align="center">https://github.com/abd-alhusseini/Project-6-Hybrid-Identity-Endpoint-Management/raw/main/README.md
 
 # Project-6 · Hybrid Identity & Endpoint Management
 
