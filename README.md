@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">https://github.com/abd-alhusseini/Project-6-Hybrid-Identity-Endpoint-Management/blob/main/README.md
 
 # Project-6 · Hybrid Identity & Endpoint Management
 
@@ -183,8 +183,6 @@ Provisioning, security and lifecycle for Windows devices are managed from the cl
 .
 ├── README.md
 ├── images/        # screenshots and architecture diagram
-├── policies/      # exported Conditional Access / Intune JSON
-└── scripts/       # PowerShell used to build the AD structure
 ```
 
 ---
