@@ -1,5 +1,3 @@
-<div align="center">https://github.com/abd-alhusseini/Project-6-Hybrid-Identity-Endpoint-Management/raw/main/README.md
-
 # Project-6 · Hybrid Identity & Endpoint Management
 
 **Windows Server Active Directory synchronized with Microsoft Entra ID, with Intune-managed endpoints and Conditional Access.**
