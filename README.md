@@ -66,7 +66,7 @@ Designed an OU tree by department, with users and security groups organized for 
 - Password Hash Sync enabled; delta sync verified end to end.
 - Synced users appear in Entra ID with source **Windows Server AD**.
 
-<img src="images/sync-status-and-ou-filtering.png" alt="Sync status and OU filtering" width="700">
+<img src="images/sync-status & ou-filtering .png" alt="Sync status and OU filtering" width="700">
 <br><sub><b>Sync status and OU filtering</b></sub>
 
 ---
