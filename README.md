@@ -318,23 +318,23 @@ When `Invoke-LAPSPasswordRotate.ps1` was run against all 11 devices, 10 rotation
 │   ├── ca-policies-list.png
 │   ├── ca-mfa-admins-details.png
 │   ├── ca-what-if-proof.png
-│   ├── ca-enforcement-blocked.png        ← NEW
+│   ├── ca-enforcement-blocked.png        
 │   ├── autopilot-device-profile.png
 │   ├── esp-oobe.png
 │   ├── compliance-policy.png
 │   ├── device-compliant.png
 │   ├── bitlocker.png
-│   ├── bitlocker-recovery-key.png        ← NEW
+│   ├── bitlocker-recovery-key.png        
 │   ├── update-rings.png
-│   ├── update-in-progress.png            ← NEW
-│   ├── apps-deployed-full.png            ← NEW
-│   ├── configuration-profiles.png        ← NEW
-│   ├── devices-overview.png              ← NEW
+│   ├── update-in-progress.png            
+│   ├── apps-deployed-full.png            
+│   ├── configuration-profiles.png        
+│   ├── devices-overview.png              
 │   ├── laps.png
-│   ├── ps-get-devices.png                ← NEW
-│   ├── ps-inventory-csv.png              ← NEW
-│   ├── ps-ca-policies.png                ← NEW
-│   └── ps-laps-rotation.png             ← NEW
+│   ├── ps-get-devices.png                
+│   ├── ps-inventory-csv.png              
+│   ├── ps-ca-policies.png                
+│   └── ps-laps-rotation.png             
 └── scripts/
     ├── Get-UncompiantDevices.ps1
     ├── Export-IntuneInventory.ps1
